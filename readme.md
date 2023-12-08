@@ -1,5 +1,5 @@
 # M1 Intro au parsing de la syntaxe
-- Installez les dépendances avec `bash install.sh`
+- créer un environnement python avec `python3 -m venv venv`
 - sourcer l'environnement python avec `source venv/bin/activate`
-- Telecharger les données avec `bash download_data.sh`
-- Puis vous pouvez allez dans le notebook `M1_initiation_au_parsing.ipynb`
+- Installer les requierements `pip install -r requierements.txt`
+- Puis ouvrez le notebook (si vous utilisez jupyterlab, pensez bien à ouvrir le notebook depuis le terminal avec le bon environnement python)
